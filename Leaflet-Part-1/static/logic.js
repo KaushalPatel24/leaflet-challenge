@@ -1,4 +1,4 @@
-
+API_KEY1 = "AIzaSyCv5OBwanhRzvIbAak2ZjPFLAFBWjyYJZA"
 function markerSize(magnitude) {
     return magnitude * 3;
   }
